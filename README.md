@@ -1,2 +1,2 @@
 # safire
-Software Architecture Framework for Integrated Rapid Engineering
+System Architecture for Integrated Rapid Engineering
